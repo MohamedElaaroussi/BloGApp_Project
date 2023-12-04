@@ -1,0 +1,223 @@
+
+
+
+
+
+/* ------------          ---------------------------- -----------*/
+
+.Section-Ajouter-Article{
+    box-sizing: border-box;
+    position: absolute;
+    width: 901px;
+    height: 1003px;
+    left: 270px;
+    top: 61px;
+    background: #F8F8F8;
+    border: 2px solid #000000;
+    border-radius: 15px;
+}
+
+/* ------------          ---------------------------- -----------*/
+
+
+.Botton-Annuler{
+    position: absolute;
+    
+    left: 2%;
+    top: 2%;
+    /* bottom: 0%; */
+    
+    font-family: 'Red Hat Display';
+    /* font-style: normal; */
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 24px;
+    /* identical to box height */
+    
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.02em;
+    
+    color: #6FA8AC;
+    cursor: pointer;
+    
+    
+}
+
+
+.Icone-Annuler{
+    font-size: 24px;
+}
+
+.Section-Titre-Article{
+    /* Frame 5 */
+
+
+position: absolute;
+width: 269px;
+height: 90px;
+left: 47px;
+top: 164px;
+
+}
+
+.Section-Titre-Article .Titre-Article{
+    /* Titre : */
+    width: 131.28px;
+    height: 24px;
+    padding-bottom: 40px;
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+}
+
+
+
+
+
+[placeholder]{
+    font-style: italic;
+}
+
+
+
+.input-Titre-Article input{
+    /* Button */
+
+
+box-sizing: border-box;
+
+position: absolute;
+width: 291px;
+height: 50px;
+padding-left: 12px;
+background: #FFFFFF;
+border: 1px solid rgba(19, 19, 19, 0.25);
+border-radius: 3px;
+}
+
+
+/* ------------          ---------------------------- -----------*/
+
+
+.Bordure{
+    border-bottom: 1px solid black;
+    position: absolute;
+    width: 553.09px;
+    height: 0px;
+    left: 158.05px;
+    top: 291px;
+}
+
+
+
+
+/* ------------          ---------------------------- -----------*/
+
+.Section-Paragraphe{
+    /* Group 47730 */
+
+
+position: absolute;
+top: 330px;
+width: 901px ;
+}
+
+/* ------------          ---------------------------- -----------*/
+
+.Section-Titre-Paragraphe{
+    position: absolute;
+    width: 269px;
+    height: 90px;
+    left: 47px;
+   
+   
+}
+
+.Titre-Paragraphe{
+     /* Titre : */
+     width: 251.28px;
+     height: 24px;
+     padding-bottom: 40px;
+     font-family: 'Poppins';
+     font-weight: 400;
+     font-size: 16px;
+     line-height: 24px;
+}
+
+
+.input-Titre-Paragraphe input{
+    /* Button */
+
+
+box-sizing: border-box;
+
+
+width: 291px;
+height: 50px;
+padding-left: 12px;
+background: #FFFFFF;
+border: 1px solid rgba(19, 19, 19, 0.25);
+border-radius: 3px;
+}
+
+
+
+
+
+
+/* ------------          ---------------------------- -----------*/
+
+
+.Section-Contenu-Paragraphe{
+    position: absolute;
+    width: 269px;
+    height: 90px;
+    left: 47px;
+    margin-top: 100px;
+}
+
+.Contenu-Paragraphe{
+     /* Titre : */
+     width: 251.28px;
+     height: 24px;
+     padding-bottom: 40px;
+     font-family: 'Poppins';
+     font-weight: 400;
+     font-size: 16px;
+     line-height: 24px;
+}
+
+
+.input-Contenu-Paragraphe textarea{
+    /* Button */
+
+
+box-sizing: border-box;
+
+width: 769px;
+height: 296.11px;
+padding-left: 12px;
+background: #FFFFFF;
+border: 1px solid rgba(19, 19, 19, 0.25);
+border-radius: 3px;
+}
+
+/* ------------          ---------------------------- -----------*/
+
+
+
+.Section-Chargement-Fichier{
+    margin-top: 500px;
+    position: absolute;
+    width: 269px;
+    height: 90px;
+    left: 47px;
+
+}
+
+/* 
+.input-Chargement-Fichier{
+
+} */

@@ -1,0 +1,130 @@
+.SectionSupport{
+    /* [Section] Subscribe */
+
+
+position: absolute;
+width: 100%;
+height: 322px;
+
+top: 2976px;
+border-radius: 20px;
+background-color: #ebfff7;
+}
+
+.Support span{
+    /* Company News */
+
+
+position: absolute;
+width: 261.59px;
+height: 50.7px;
+left: 442.94px;
+top: 21.13px;
+
+font-family: 'josefin sans';
+font-style: normal;
+font-size: 26px;
+line-height: 147.4%;
+
+/* or 53px */
+
+text-align: center;
+letter-spacing: 0.02em;
+
+color: #EB801D;
+
+}
+
+
+.Subscribe span{
+    position: absolute;
+width: 534.25px;
+height: 56.43px;
+left: 315.12px;
+top: 67.57px;
+
+font-family: 'josefin sans';
+font-style: normal;
+font-weight: 700;
+font-size: 33px;
+line-height: 147.4%;
+/* or 59px */
+
+text-align: center;
+letter-spacing: 0.02em;
+
+color: #2D3150;
+
+}
+
+
+.Company-News span{
+    /* Company News */
+
+
+position: absolute;
+width: 361.59px;
+height: 50.7px;
+left: 410.94px;
+top: 121.13px;
+
+font-family: 'josefin sans';
+/* font-style: normal; */
+/* font-weight: 300; */
+font-size: 36px;
+line-height: 147.4%;
+/* or 53px */
+
+text-align: center;
+letter-spacing: 0.02em;
+
+color: #2D3150;
+
+}
+
+
+.Email-Place .Email-Place-2{
+    /* Rectangle 19 */
+
+
+position: absolute;
+width: 443.92px;
+height: 48.87px;
+left: 359.78px;
+top: 223.48px;
+
+background: #FFFFFF;
+box-shadow: 0px 10px 20px rgba(54, 58, 120, 0.1);
+border-radius: 20px;
+
+
+
+}
+
+.Email-Place .Email-Place-2 input{
+    /* Rectangle 19 */
+
+
+position: absolute;
+width: 90%;
+height: 48.87px;
+
+top: 0px;
+
+background: #FFFFFF;
+/* box-shadow: 0px 10px 20px rgba(54, 58, 120, 0.1); */
+border-radius: 20px;
+border: none;
+z-index: 3;
+
+
+}
+
+.Icone-Email{
+    font-size: 33px;
+    margin-left: 10px;
+    margin-top: 20px;
+    padding-right: 4px;
+position: relative;
+top: 3px;
+}

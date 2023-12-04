@@ -1,0 +1,129 @@
+.Section-Entreprise{
+    /* CTA */
+
+
+position: absolute;
+width: 815px;
+height: 699px;
+left: -235px;
+top: 946px;
+
+}
+
+
+.Section-Entreprise .Contenu-Pub{
+
+    /* Content */
+
+
+/* Auto layout */
+
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 40px;
+
+position: absolute;
+width: 564px;
+height: 401px;
+left: 281px;
+top: 280px;
+
+}
+
+
+.Section-Entreprise .Image-Pub-Collaboration img{
+    position: absolute;
+width: 530.51px;
+height: 410.87px;
+left: 852px;
+top: 184px;
+}
+
+.Section-Entreprise .Titre{
+/* Looking to raise capital for your growing business? */
+
+
+width: 564px;
+height: 128px;
+
+font-family: 'Josefin Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 41px;
+line-height: 64px;
+/* or 156% */
+
+
+/* Grey / 1 */
+
+color: #333333;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+
+}
+
+.Section-Entreprise .Desc{
+    /* Whether expanding or opening a brand-new concept, we make it easy to raise money from thousands of local investors. */
+
+
+width: 564px;
+height: 64px;
+
+font-family: 'Josefin Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 32px;
+/* or 160% */
+
+
+/* Grey / 2 */
+
+color: #999999;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 1;
+flex-grow: 0;
+}
+
+
+.Section-Entreprise .Botton-Voir-Plus{
+    /* Button */
+
+
+/* Auto layout */
+
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 24px 40px 22px;
+gap: 4px;
+
+width: 248px;
+height: 60px;
+
+background: #499D77;
+border-radius: 10px;
+
+/* Inside auto layout */
+
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+color: #fff;
+border: #fff;
+font-family: 'Josefin Sans';
+}

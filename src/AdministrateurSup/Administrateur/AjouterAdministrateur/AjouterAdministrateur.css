@@ -1,0 +1,340 @@
+.Emplacement-Ajouter-Admin{
+    
+box-sizing: border-box;
+
+position: absolute;
+width: 736px;
+height: 763px;
+left: 331px;
+top: 61px;
+
+background: #F8F8F8;
+border: 2px solid #000000;
+border-radius: 15px;
+}
+
+.Annuler{
+    /* Back icon */
+
+cursor: pointer;
+position: absolute;
+width: 66px;
+height: 24px;
+left: 22px;
+top: 16px;
+z-index: 3;
+
+}
+
+.Annuler span:last-child{
+
+/* Annuler */
+
+
+position: absolute;
+left: 36.36%;
+right: -37.88%;
+top: 0%;
+bottom: 0%;
+
+font-family: 'Red Hat Display';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 24px;
+/* identical to box height */
+
+display: flex;
+align-items: center;
+letter-spacing: 0.02em;
+
+color: #6FA8AC;
+
+}
+
+
+.Annuler:first-child{
+color: #6FA8AC;
+
+}
+
+
+.Champs-NomC{
+    /* Group 47729 */
+
+
+width: 291px;
+height: 90px;
+
+}
+
+.Champs-NomC span{
+    /* Nom : */
+
+
+position: absolute;
+width: 207px;
+height: 24px;
+left: 49px;
+top: 129px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+
+color: #000000;
+}
+
+.Champs-NomC input{
+    
+
+
+box-sizing: border-box;
+
+position: absolute;
+width: 291px;
+height: 50px;
+left: 49px;
+top: 170px;
+
+background: #FFFFFF;
+border: 1px solid rgba(19, 19, 19, 0.25);
+border-radius: 3px;
+}
+
+
+.Champs-Email{
+    /* Group 47729 */
+
+
+position: absolute;
+width: 291px;
+height: 90px;
+left: -350px;
+top: -22px;
+}
+
+
+.Champs-Email span{
+   /* Email : */
+
+
+position: absolute;
+width: 207px;
+height: 24px;
+left: 400.5px;
+top: 281px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+
+color: #000000;
+ 
+}
+
+
+.Champs-Email input{
+    /* Button */
+
+
+box-sizing: border-box;
+
+position: absolute;
+width: 291px;
+height: 50px;
+left: 400px;
+top: 321px;
+
+background: #FFFFFF;
+border: 1px solid rgba(19, 19, 19, 0.25);
+border-radius: 3px;
+}
+
+.Champs-MotDePasse{
+    /* Group 47730 */
+
+
+position: absolute;
+width: 291px;
+height: 90px;
+left: -350px;
+top: -10px;
+}
+
+
+.Champs-MotDePasse span{
+    /* Mot de passe : */
+
+
+position: absolute;
+width: 207px;
+height: 24px;
+left: 400.5px;
+top: 398px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+
+color: #000000;
+}
+
+.Champs-MotDePasse input{
+    /* Button */
+
+
+box-sizing: border-box;
+
+position: absolute;
+width: 291px;
+height: 50px;
+left: 400px;
+top: 438px;
+
+background: #FFFFFF;
+border: 1px solid rgba(19, 19, 19, 0.25);
+border-radius: 3px;
+}
+
+
+.Champs-Image{
+    position: absolute;
+width: 291px;
+height: 90px;
+left: -350px;
+top: -10px;
+
+}
+
+.Champs-Image span{
+    /* Image : */
+
+
+position: absolute;
+width: 207px;
+height: 24px;
+left: 400px;
+top: 526px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+
+color: #000000;
+
+}
+
+.Champs-Image input{
+    /* Send */
+
+
+position: absolute;
+width: 343px;
+height: 56px;
+left: 404px;
+top: 570px;
+
+border: 1px solid rgba(19, 19, 19, 0.25);
+}
+
+
+.Botton-Enregistrer button{
+ /* Button */
+
+
+/* Auto layout */
+width: 300px;
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 6.42219px 8.02774px;
+gap: 4.01px;
+
+position: absolute;
+height: 52px;
+left: 368px;
+/* right: 41px; */
+top: 683px;
+
+/* Primary */
+
+background: #2947A9;
+border-radius: 0.802774px;
+
+
+
+}
+
+
+
+
+.Botton-Enregistrer button span{
+    /* Learn more */
+
+
+width: 98px;
+height: 21px;
+
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 21px;
+text-align: center;
+
+/* Neutral/White */
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+
+
+
+
+input[placeholder]{
+    font-style: italic;
+}
+input{
+    font-style: italic;
+
+}
+
+
+.Forme-1{
+    /* Vector */
+
+
+position: relative;
+/* left: 15.56%;
+right: 21.32%;
+top: 62.32%;
+bottom: -2.7%; */
+z-index: 100;
+
+/* background: #ACDBDF; */
+}
+

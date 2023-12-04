@@ -1,0 +1,67 @@
+.SectionPubs{
+    /* Hero */
+
+
+position: absolute;
+height: 473px;
+left: 52px;
+right: 52px;
+top: 261px;
+
+    /* color :#499D77 ; */
+    /* background-color: #80dbb2; */
+}
+
+
+.Pub-Fish{
+    box-shadow: rgba(113, 113, 113, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+    width: 300px;
+    height: 150px ;
+    
+    position: absolute;
+    left: -150px;
+    top: 230px;
+    background-color: #fff;
+    
+    z-index: 2; 
+
+}
+
+.Pub-Fish button{
+    font-family: 'Josefin Sans';
+}
+
+
+.Pub-Fish div:first-child span{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;
+    font-size: medium;
+}
+
+.Pub-Fish .Connexion{
+    background-color: #499D77;
+    border-color: #FFFFFF;
+    position: absolute;
+    bottom: 15px;
+    left: 42px;
+}
+
+
+
+.S-2 div img{
+    position: absolute;
+    right: -10px;
+    width: 490px;
+    height:200px;
+    border-radius: 20px;
+}
+
+.S-3 div img{
+    width: 490px;
+    height:200px;
+    border-radius: 20px;
+    position: absolute;
+    top: 250px;
+    /* left: 565px; */
+    right: -10px;
+
+}

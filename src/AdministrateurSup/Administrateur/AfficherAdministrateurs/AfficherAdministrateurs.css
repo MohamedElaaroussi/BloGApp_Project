@@ -1,0 +1,295 @@
+
+
+.AdminSup-Admin .RechercheAdmin {
+    /* Top Header */
+
+
+    /* Auto layout */
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0px;
+    gap: 350px;
+
+    position: absolute;
+    width: 1129px;
+    height: 52px;
+    left: 271px;
+    top: 56.1px;
+
+}
+
+
+.AdminSup-Admin .BoiteRecherche-Admin input {
+    width: 92%;
+    height: 100%;
+    border: none;
+}
+
+.AdminSup-Admin .BoiteRecherche-Admin {
+    /* Rectangle 1072 */
+
+
+    box-sizing: border-box;
+
+    position: absolute;
+    left: 20.99%;
+    right: 20.99%;
+    top: 0%;
+    bottom: 0%;
+
+    background: #FFFFFF;
+    border: 1px solid rgba(0, 0, 0, 0.2);
+    border-radius: 3px;
+
+}
+
+
+.AdminSup-Admin [placeholder] {
+
+    font-style: italic;
+}
+
+
+.AdminSup-Admin .Icon-Search {
+    position: absolute;
+    left: 1.5%;
+    right: 75.11%;
+    top: 10.72%;
+
+    font-size: 26px;
+    z-index: 3;
+}
+
+
+
+
+
+.AdminSup-Admin .Recherche-Compositeur-Id {
+    /* Auto layout */
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0px;
+    gap: 22px;
+
+    position: absolute;
+    width: 653px;
+    height: 90px;
+    left: 270px;
+    top: 212px;
+}
+
+
+
+.AdminSup-Admin .BoiteRecherche-Compositeur{
+    /* Group 47729 */
+
+
+width: 291px;
+height: 90px;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+
+
+.AdminSup-Admin .BoiteRecherche-Compositeur label{
+    /* Compositeur */
+
+
+position: absolute;
+width: 131.28px;
+height: 24px;
+left: 0px;
+top: 0px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+
+color: #000000;
+}
+
+.AdminSup-Admin .BoiteRecherche-Compositeur input{
+    /* Button */
+
+
+box-sizing: border-box;
+
+position: absolute;
+width: 291px;
+height: 50px;
+left: 0px;
+top: 40px;
+
+background: #FFFFFF;
+border: 1px solid rgba(19, 19, 19, 0.25);
+border-radius: 3px;
+}
+
+
+.AdminSup-Admin .BoiteRecherche-Id{
+/* Group 47730 */
+
+
+width: 266px;
+height: 90px;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 1;
+flex-grow: 0;
+}
+
+.AdminSup-Admin .BoiteRecherche-Id label{
+/* ID */
+
+
+position: absolute;
+width: 117px;
+height: 24px;
+left: 387px;
+top: 0px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+
+color: #000000;
+}
+
+.AdminSup-Admin .BoiteRecherche-Id input{
+
+    /* Button */
+
+
+box-sizing: border-box;
+
+position: absolute;
+width: 266px;
+height: 50px;
+left: 387px;
+top: 40px;
+
+background: #FFFFFF;
+border: 1px solid rgba(19, 19, 19, 0.25);
+border-radius: 3px;
+}
+
+
+
+.AdminSup-Admin .Ajouter-Admin{
+    /* darkBtn */
+
+
+box-sizing: border-box;
+
+/* Auto layout */
+
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 12px 23px;
+gap: 10px;
+
+position: absolute;
+width: 152px;
+height: 52px;
+left: 1000px;
+top: 247px;
+cursor: pointer;
+border: 1px solid #000000;
+border-radius: 8px;
+}
+
+
+.AdminSup-Admin .Ajouter-Admin .Botton-AjouterAdmin{
+    /* Dark Mode */
+
+
+width: 125px;
+height: 40px;
+
+font-family: 'Mulish';
+font-style: italic;
+font-weight: 600;
+font-size: 16px;
+line-height: 40px;
+/* identical to box height, or 250% */
+
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #000000;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+
+
+.AdminSup-Admin .Admins{
+    position: absolute;
+width: 980px;
+height: 774px;
+left: 270px;
+top: 342px;
+background-color: #FFFFFF;
+}
+
+.AdminSup-Admin .Admins table tr th{
+    font-family: 'Lato';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 19px;
+
+}
+
+.AdminSup-Admin .Admins table tbody tr td{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    /* identical to box height */
+    
+    
+    color: #000000;
+    
+    opacity: 0.65;
+
+}
+
+.AdminSup-Admin .Admins table tbody tr td:first-child{
+    color: #0B63F8;  
+}
+
+.AdminSup-Admin .Admins table tbody tr .Voir,.Modifier,.Supprimer{
+    cursor: pointer;
+}
+
+

@@ -1,0 +1,236 @@
+.MenuAdmin{
+    
+width: 230px;
+height: 1149px;
+
+
+background: #FFFFFF;
+}
+
+
+.MenuAdmin .SlideAdmin{
+    display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px 0px 30px;
+gap: 23px;
+
+position: absolute;
+width: 146px;
+height: 993px;
+left: 41px;
+top: 156px;
+}
+
+
+.MenuAdmin .SlideAdminArticle{
+    width: 100px;
+height: 34px;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+cursor: pointer;
+}
+
+
+.MenuAdmin .Icone-Blog{
+   color: #0B63F8;
+   font-size: 20px;
+   font-style: italic;
+    
+}
+
+.MenuAdmin .Span-Article{
+    position: absolute;
+    width: 61px;
+    height: 34px;
+    left: 39px;
+    top: 4px;
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 0.02em;
+    
+    color: #0B63F8;
+     
+}
+
+.MenuAdmin .Span-Categorie{
+
+    position: absolute;
+width: 92px;
+height: 24px;
+left: 39px;
+top: 60px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+letter-spacing: 0.02em;
+
+color: #0B63F8;
+}
+
+
+.MenuAdmin .Span-Profil{
+    position: absolute;
+    width: 41px;
+    height: 24px;
+    left: 39px;
+    top: 113px;
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    /* identical to box height */
+    
+    letter-spacing: 0.02em;
+    
+    color: #0B63F8;
+}
+
+
+.MenuAdmin .Span-Deconnexion{
+    position: absolute;
+    width: 107px;
+    height: 24px;
+    left: 39px;
+    top: 155px;
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    /* identical to box height */
+    
+    letter-spacing: 0.02em;
+    
+    color: #0B63F8;
+}
+
+
+
+.MenuAdmin .Icone-Cat{
+    font-size: 20px;
+    color: #0B63F8;
+    font-style: italic;
+
+}
+
+
+.MenuAdmin .Icone-Profil{
+    font-size: 25px;
+    color: #0B63F8;
+    font-style: italic;
+
+
+}
+
+
+.MenuAdmin .Icone-LogOut{
+    font-size: 20px;
+    color: #0B63F8;
+
+    font-style: italic;
+
+}
+
+.MenuAdmin .SlideAdminCat{
+/* Group 34635 */
+
+
+width: 131px;
+height: 24px;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+cursor: pointer;
+}
+
+.MenuAdmin .SlideAdminProfil{
+/* Group 34636 */
+
+
+width: 80px;
+height: 24px;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+cursor: pointer;
+}
+
+.MenuAdmin .SlideAdminLogOut{
+/* Group 34637 */
+
+
+width: 146px;
+height: 24px;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+cursor: pointer;
+
+}
+
+
+.MenuAdmin .Cursor-Slide-1{
+    /* Rectangle 5886 */
+
+
+position: absolute;
+width: 3px;
+height: 39px;
+left: -30px;
+top: -4px;
+
+background: #0B63F8;
+} 
+
+
+.Cursor-Slide-2{
+      /* Rectangle 5886 */
+
+
+position: absolute;
+width: 3px;
+height: 39px;
+left: -30px;
+top: 52px;
+
+background: #0B63F8;
+
+}

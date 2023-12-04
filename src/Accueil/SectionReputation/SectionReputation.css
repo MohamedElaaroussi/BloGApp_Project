@@ -1,0 +1,202 @@
+.SectionReputation{
+    /* Reasons */
+
+
+position: absolute;
+height: 390px;
+left: 47px;
+right: 46px;
+top: 3378px;
+
+/* background: #ffe6e6; */
+}
+
+
+.Best-Services{
+    box-sizing: border-box;
+
+/* Auto layout */
+
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: flex-start;
+padding: 14.6346px 14.6346px 29.2693px;
+gap: 13.17px;
+
+position: absolute;
+width: 315px;
+height: 268px;
+left: 19px;
+top: 109px;
+color: #499D77;
+
+background: #FFFFFF;
+border: 1.02443px solid #499D77;
+border-radius: 5px;
+}
+
+
+.Best-Teams{
+    /* Reasons */
+
+color: #499D77;
+box-sizing: border-box;
+
+/* Auto layout */
+
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: flex-start;
+padding: 14.6346px 14.6346px 29.2693px;
+gap: 13.17px;
+
+position: absolute;
+width: 315px;
+height: 184px;
+left: 364px;
+top: 109px;
+
+background: #FFFFFF;
+border: 1.02443px solid #499D77;
+border-radius: 5px;
+}
+
+
+.Best-Designs{
+    /* Reasons */
+
+    color: #499D77;
+
+box-sizing: border-box;
+
+/* Auto layout */
+
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: flex-start;
+padding: 14.6346px 14.6346px 29.2693px;
+gap: 13.17px;
+
+position: absolute;
+width: 315px;
+height: 268px;
+right: 31px;
+top: 109px;
+
+background: #FFFFFF;
+border: 1.02443px solid #499D77;
+border-radius: 5px;
+}
+
+
+.Best-Services span{
+    /* Best Services */
+
+
+width: 108px;
+height: 19px;
+
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 19px;
+/* identical to box height */
+
+/* Neutral/700 */
+
+color: #3D445C;
+
+
+/* Inside auto layout */
+
+/* flex: none; */
+/* order: 1; */
+/* flex-grow: 0; */
+margin-left: 90px;
+
+
+}
+
+
+.Best-Teams span{
+    /* Best Services */
+
+
+width: 92px;
+height: 19px;
+
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 19px;
+/* identical to box height */
+
+
+/* Neutral/700 */
+
+color: #3D445C;
+
+
+/* Inside auto layout */
+/* 
+flex: none;
+order: 1;
+flex-grow: 0; */
+margin-left: 90px;
+
+}
+
+
+.Best-Designs span{
+    /* Best Services */
+
+
+width: 102px;
+height: 19px;
+
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 19px;
+/* identical to box height */
+
+
+/* Neutral/700 */
+
+color: #3D445C;
+
+
+/* Inside auto layout */
+
+/* flex: none;
+order: 1;
+flex-grow: 0; */
+margin-left: 90px;
+
+}
+
+
+.Best-Services .Icone-Service{
+    font-size: 50px;
+margin-left: 110px;
+
+}
+
+
+.Best-Teams .Icone-Team{
+    font-size: 50px;
+    margin-left: 115px;
+
+}
+
+.Best-Designs .Icone-Designs{
+    font-size: 50px;
+    margin-left: 115px;
+
+}

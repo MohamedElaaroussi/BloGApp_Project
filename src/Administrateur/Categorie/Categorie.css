@@ -1,0 +1,294 @@
+.CategoriesAdmin .RechercheCategorie {
+    /* Top Header */
+
+
+    /* Auto layout */
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0px;
+    gap: 350px;
+
+    position: absolute;
+    width: 1129px;
+    height: 52px;
+    left: 271px;
+    top: 56.1px;
+
+}
+
+
+.CategoriesAdmin .BoiteRecherche-Categorie input {
+    width: 92%;
+    height: 100%;
+    border: none;
+}
+
+.CategoriesAdmin .BoiteRecherche-Categorie {
+    /* Rectangle 1072 */
+
+
+    box-sizing: border-box;
+
+    position: absolute;
+    left: 20.99%;
+    right: 20.99%;
+    top: 0%;
+    bottom: 0%;
+
+    background: #FFFFFF;
+    border: 1px solid rgba(0, 0, 0, 0.2);
+    border-radius: 3px;
+
+}
+
+
+.CategoriesAdmin [placeholder] {
+
+    font-style: italic;
+}
+
+
+.CategoriesAdmin .Icon-Search {
+    position: absolute;
+    left: 1.5%;
+    right: 75.11%;
+    top: 10.72%;
+    cursor: pointer;
+
+    font-size: 26px;
+    z-index: 3;
+}
+
+
+
+
+
+.CategoriesAdmin .Recherche-Compositeur-Id {
+    /* Auto layout */
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0px;
+    gap: 22px;
+
+    position: absolute;
+    width: 653px;
+    height: 90px;
+    left: 270px;
+    top: 212px;
+}
+
+
+
+.CategoriesAdmin .BoiteRecherche-Compositeur{
+    /* Group 47729 */
+
+
+width: 291px;
+height: 90px;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+
+
+.CategoriesAdmin .BoiteRecherche-Compositeur label{
+    /* Compositeur */
+
+
+position: absolute;
+width: 131.28px;
+height: 24px;
+left: 0px;
+top: 0px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+
+color: #000000;
+}
+
+.CategoriesAdmin .BoiteRecherche-Compositeur input{
+    /* Button */
+
+
+box-sizing: border-box;
+
+position: absolute;
+width: 291px;
+height: 50px;
+left: 0px;
+top: 40px;
+
+background: #FFFFFF;
+border: 1px solid rgba(19, 19, 19, 0.25);
+border-radius: 3px;
+}
+
+
+.CategoriesAdmin .BoiteRecherche-Id{
+/* Group 47730 */
+
+
+width: 266px;
+height: 90px;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 1;
+flex-grow: 0;
+}
+
+.CategoriesAdmin .BoiteRecherche-Id label{
+/* ID */
+
+
+position: absolute;
+width: 117px;
+height: 24px;
+left: 387px;
+top: 0px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+
+color: #000000;
+}
+
+.CategoriesAdmin .BoiteRecherche-Id input{
+
+    /* Button */
+
+
+box-sizing: border-box;
+
+position: absolute;
+width: 266px;
+height: 50px;
+left: 387px;
+top: 40px;
+
+background: #FFFFFF;
+border: 1px solid rgba(19, 19, 19, 0.25);
+border-radius: 3px;
+}
+
+
+
+.CategoriesAdmin .Ajouter-Categorie{
+    /* darkBtn */
+
+
+box-sizing: border-box;
+
+/* Auto layout */
+
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 12px 23px;
+gap: 10px;
+
+position: absolute;
+width: 152px;
+height: 52px;
+left: 1000px;
+top: 247px;
+cursor: pointer;
+border: 1px solid #000000;
+border-radius: 8px;
+}
+
+
+.CategoriesAdmin .Ajouter-Categorie .Botton-AjouterCategorie{
+    /* Dark Mode */
+
+
+width: 139px;
+height: 40px;
+
+font-family: 'Mulish';
+font-style: italic;
+font-weight: 600;
+font-size: 16px;
+line-height: 40px;
+/* identical to box height, or 250% */
+
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #000000;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+
+
+.CategoriesAdmin .Categories{
+    position: absolute;
+width: 980px;
+height: 774px;
+left: 270px;
+top: 342px;
+background-color: #FFFFFF;
+}
+
+.CategoriesAdmin .Categories table tr th{
+    font-family: 'Lato';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 19px;
+
+}
+
+.CategoriesAdmin .Categories table tbody tr td{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    /* identical to box height */
+    
+    
+    color: #000000;
+    
+    opacity: 0.65;
+
+}
+
+.CategoriesAdmin .Categories table tbody tr td:first-child{
+    color: #0B63F8;  
+}
+
+.CategoriesAdmin .Categories table tbody tr .Voir,.Modifier,.Supprimer{
+    cursor: pointer;
+}
+
+
